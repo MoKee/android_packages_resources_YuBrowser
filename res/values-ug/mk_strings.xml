@@ -15,6 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="version_info_title">"ဗားရှင်း အကြောင်း"</string>
-  <string name="menu_exit">ထွက်မည်</string>
+  <string name="menu_exit">چېكىنىش</string>
 </resources>

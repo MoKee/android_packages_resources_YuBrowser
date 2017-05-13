@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="version_info_title">"版本資訊"</string>
-  <string name="version_info_summary">"MoKee 自訂版"</string>
+  <string name="version_info_summary">"MoKee 定製版"</string>
   <string name="menu_exit">結束</string>
   <string name="missing_get_accounts_permission_text">"YuBrowser 要求閱讀您的設備上的帳戶來登錄到谷歌服務的許可權。"</string>
 </resources>

@@ -15,5 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="version_info_title">"Informácia o verzii"</string>
+  <string name="version_info_summary">"Vlastná edícia MoKee"</string>
   <string name="menu_exit">Ukončiť</string>
+  <string name="missing_get_accounts_permission_text">"YuBrowser vyžaduje oprávnenia na čítanie pri prihlasovaní k službám Google účtu na vašom zariadení."</string>
 </resources>
